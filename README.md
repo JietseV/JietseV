@@ -5,8 +5,8 @@ My name is Jietse, a student at Ghent University. During the course of my studie
 
 Skills: Python/R/Linux CLI
 
-- 🔭 I’m currently working on A database GUI for my collection Pokémon cards 
-- 🌱 I’m currently learning How to write GUI's in Python 
+- 🔭 I’m currently working on a database GUI for my collection Pokémon cards 
+- 🌱 I’m currently learning how to write GUI's in Python 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JietseV)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jietse-verweirder-60bb81165//)  
