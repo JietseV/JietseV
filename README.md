@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Jietse
 #### Student Master Bioinformatics @ Ghent University
 Hello!
-My name is Jietse, a student at Ghent University. During the course of my studies in bioinformatics, the coding bug has bitten me while learning to work with Python and R. I saw the capabilities of the Python language and am now trying to teach myself new applications of the language that can help me in my daily life. I'm a collector of Pokémon trading cards and writing several programs that could be helpful in the management of my collection. Furthermore I like to be outdoors working in the garden.
+My name is Jietse, a student at Ghent University. During the course of my studies in bioinformatics, the coding bug has bitten me while learning to work with Python and R. I saw the capabilities of the Python language and am now trying to teach myself new applications of the language that can help me in my daily life. I'm a collector of Pokémon trading cards and writing several programs that could be helpful in the management of my collection (not visible). Furthermore I like to be outdoors working in the garden.
 
 Skills: Python/R/Linux CLI
 
